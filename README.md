@@ -1,2 +1,2 @@
 # pushbullet-api-integration
-A collection of services integrates with Pushbullet API.
+A collection of services integrate with Pushbullet API.
