@@ -1,5 +1,5 @@
 package org.mesutormanli.pushbulletapi.model;
 
-public class Subscription {
+public class ChannelInfo {
     //TODO: implementation
 }

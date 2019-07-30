@@ -1,8 +1,8 @@
 package org.mesutormanli.pushbulletapi.service;
 
 import org.mesutormanli.pushbulletapi.model.Device;
-import org.mesutormanli.pushbulletapi.model.request.CreateDeviceRequest;
-import org.mesutormanli.pushbulletapi.model.request.UpdateDeviceRequest;
+import org.mesutormanli.pushbulletapi.model.request.device.CreateDeviceRequest;
+import org.mesutormanli.pushbulletapi.model.request.device.UpdateDeviceRequest;
 
 import java.util.List;
 
