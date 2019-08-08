@@ -1,7 +1,6 @@
 package org.mesutormanli.pushbulletapi.service.impl;
 
 import org.mesutormanli.pushbulletapi.model.Push;
-import org.mesutormanli.pushbulletapi.model.enumeration.PushType;
 import org.mesutormanli.pushbulletapi.model.request.push.CreatePushRequest;
 import org.mesutormanli.pushbulletapi.model.request.push.ListPushesRequest;
 import org.mesutormanli.pushbulletapi.model.request.push.UpdatePushRequest;
@@ -19,7 +18,7 @@ public class PushServiceImpl implements PushService {
     }
 
     @Override
-    public Push createPush(PushType type, CreatePushRequest request) {
+    public Push createPush(CreatePushRequest request) {
         //TODO: implemenation
         return null;
     }
